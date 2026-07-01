@@ -1,6 +1,13 @@
 Hello Git
+<<<<<<< HEAD
    This is change from main branch
     This is lesson 3 is about difference
     this feature is only available in login-feature branch
     this is change from the main
     
+=======
+    This is change from feature1 branch
+    This is lesson 3 is about difference
+    this feature is only available in login-feature branch
+This is change from feature 1 branch
+>>>>>>> feature1
